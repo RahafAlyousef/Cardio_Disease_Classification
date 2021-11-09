@@ -8,6 +8,15 @@ The cardiovascular disease dataset is found on Kaggle. Source: https://www.kaggl
 
 The data consists of 70,000 patient records and 14 features.
 
+## Classification models used:
+- Logistic Regression.
+- K-nearest neighbors.
+- Decision Tree. 
+- Extra Trees.
+- Random Forest.
+- Gaussian Naive Bayes.
+- Bernoulli Naive Bayes.
+
 ## Tools:
 • Technologies:
 - Python.
