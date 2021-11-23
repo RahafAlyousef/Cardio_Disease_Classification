@@ -32,3 +32,7 @@ The data consists of 70,000 patient records and 14 features.
 - NumPy
 - Sklearn
 - sqlalchemy
+
+By:
+- [Ghadah Alharbi](https://github.com/ghadh-fr)
+- [Rahaf Alyousef](https://github.com/rahafkh1)
